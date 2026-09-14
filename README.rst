@@ -1,3 +1,5 @@
+[![Run with SageMath](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kr1staps237/sage-binder-env/HEAD?urlpath=lab/tree/Cohomology_Computations.ipynb.ipynb)
+
 A Binder repo for SageMath computing environment
 ================================================
 
